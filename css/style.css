@@ -148,7 +148,7 @@ img {
         width: 100%;
     }
     .row {
-        flex-direction: column;
+        flex-wrap: wrap;
     }
     .why-us {
         background-color: #222222;
