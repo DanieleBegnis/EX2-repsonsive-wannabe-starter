@@ -141,10 +141,10 @@ img {
    }
 }
 @media screen and (max-width: 480px) {
-    .lessons .col {
+        .lessons .col {
         width: 100%;
     }
-    .steps .col {
+     .steps .col { 
         width: 100%;
     }
     .row {
@@ -153,4 +153,4 @@ img {
     .why-us {
         background-color: #222222;
     }
-}
+} 
