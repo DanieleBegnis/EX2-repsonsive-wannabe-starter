@@ -144,6 +144,9 @@ img {
         .lessons .col {
         width: 100%;
     }
+    .lessons, .steps, .why-us {
+        margin: 3rem 0;
+    }
      .steps .col { 
         width: 100%;
     }
@@ -152,5 +155,12 @@ img {
     }
     .why-us {
         background-color: #222222;
+        margin-bottom: 0;
+    }
+    .why-us .col-left, .why-us .col-right {
+        width: 100%;
+    }
+    .steps {
+        margin: 0;
     }
 } 
